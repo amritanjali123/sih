@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345",
+    "database": "hackathon",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "timezone": "+05:30"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "timezone": "+05:30"
+  },
+  "production": {
+    "username": "root",
+    "password": "12345",
+    "database": "hackathon",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "timezone": "+05:30"
+  }
+}
